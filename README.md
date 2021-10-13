@@ -6,7 +6,7 @@ Game Engine Architecture - the architecture of a game engine
 Author: Adam Hubble
 
 ## *Keyboard and mouse input*
-- **[W]** *Active camera traverses upwards (orthogarphic) or forwards (perspective)*
+- **[W]** *Active camera traverses upwards (orthographic) or forwards (perspective)*
 - **[A]** *Active camera traverses left (orthographic) or strafes left (perspective)*
 - **[S]** *Active camera traverses right (orthographic) or strafes right (perspective)* 
 - **[D]** *Active camera traverses downwards (orthographic) or backwards (perspective)*
