@@ -1,6 +1,6 @@
 # Adam Hubble - P17175774
 
-## *Keyboard and mouse input*
+### *Keyboard and mouse input*
 - **[W]** *Active camera traverses upwards (orthogarphic) or forwards (perspective)*
 - **[A]** *Active camera traverses left (orthographic) or strafes left (perspective)*
 - **[S]** *Active camera traverses right (orthographic) or strafes right (perspective)* 
@@ -13,6 +13,3 @@
 - **[ESC]** *Terminate application runtime*
 - **[SPACE]** *Alterante or toggle the fullscreen mode of the application window*
 - **[MOUSE LEFT]** *Click and drag the mouse to alter the facing direction of the perspective camera when active*
-
-## *Note*
-- [x] Compilable
